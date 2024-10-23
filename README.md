@@ -1,14 +1,26 @@
 # LITA-Capstone-Project
-This project report is a concise analysis of sales and customer data for retail store XYZ using tools such as Microsoft Excel, SQL and Power Bi. It is going to provide details to help the management of store XYZ make business growth decisions while also showing my training journey with the Incubator Hub.
+This project report offers a concise analysis of the sales and customer data for retail store XYZ, utilizing tools such as Microsoft Excel, SQL, and Power BI. It aims to provide insights to assist the management of store XYZ in making informed business growth decisions, while also highlighting my training journey with the Incubator Hub.
 
 ## Sales Performance Analysis for Retail Store XYZ
 ## Outline
-[Overview](#Overview)
+[Overview](#overview)
+
+[Tools Used](#tools-used)
+
+[Goals/Objectives](#goalsobjectives)
+
+[Data Collected](#data-collected)
+
+[Key Metrics](#key-metrics)
+
+[Visualization](#visualization)
+
+[Analysis, Visualization and Inference](#analysis-visualization-and-inference)
 
 
 ### Overview
 ---
-In this report is the analysis of the sales performance of a retail store exploring the sales and customer data provided by the client.
+This report presents an analysis of the sales performance of a retail store, exploring the sales and customer data supplied by the client.
 
 ### Tools Used
 ---
@@ -31,9 +43,12 @@ In this report is the analysis of the sales performance of a retail store explor
 
 ### Key Metrics
 ---
-Listed below are some of the major metrics calculated using Microsoft Excel and the formulas employed
+Below are some key metrics calculated using Microsoft Excel, along with the formulas used.
 
 ```
 Average Sales per Product =
 Total Revenue by Region =
 ```
+## Visualization
+### Analysis, Visualization and Inference
+---
