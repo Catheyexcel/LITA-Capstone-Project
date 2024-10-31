@@ -67,6 +67,9 @@ where =SUMIF(range, criteria, [sum_range])
 
 ![LITA Total Sales per Month](https://github.com/user-attachments/assets/85f0fb39-6f4d-411e-8c57-13f571dcd2df)
 
+![LITA Total Sales per Year](https://github.com/user-attachments/assets/01057f9e-3ba9-49eb-9801-7cb0101b65d6)
+
+
 
 
 
