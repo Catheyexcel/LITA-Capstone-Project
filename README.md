@@ -13,10 +13,13 @@ This project report offers a concise analysis of the sales data for retail store
 
 [Key Metrics](#key-metrics)
 
-[Visualization](#visualization)
-
 [Analysis, Visualization and Inference](#analysis-visualization-and-inference)
 
+[Analysis](#Analysis)
+
+[Visualization](#Visualization)
+
+[Inference](#Inference)
 
 ### Overview
 ---
@@ -53,10 +56,11 @@ where =SUMIF(range, criteria, [sum_range])
 ![LITA Formula](https://github.com/user-attachments/assets/c1df3dcb-54da-419f-80cf-7fc3b2990331)
 
 
-## Visualization
-### Analysis, Visualization and Inference
+## Analysis, Visualization and Inference
+### Analysis
 ---
-#### Sales Data
+
+#### Excel
 ---
 ![LITA Total Sales by Product](https://github.com/user-attachments/assets/3c08dfc4-8439-4a9c-a08d-decea943a76c)
 
@@ -67,7 +71,16 @@ where =SUMIF(range, criteria, [sum_range])
 ![LITA Total Sales per Year](https://github.com/user-attachments/assets/01057f9e-3ba9-49eb-9801-7cb0101b65d6)
 
 
+#### SQL
+---
 
+### Visualization
+---
+#### Power Bi
+---
+
+### Inference
+---
 
 
 
