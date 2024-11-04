@@ -53,6 +53,7 @@ where =AVERAGEIF(range, criteria, [average_range])
 Total Revenue by Region = SUMIF(D:D, D2, H:H)
 where =SUMIF(range, criteria, [sum_range])
 ```
+
 **Exerpts for the above**
 ![LITA Formula](https://github.com/user-attachments/assets/c1df3dcb-54da-419f-80cf-7fc3b2990331)
 
