@@ -21,6 +21,7 @@ This project report offers a concise analysis of the sales data for retail store
 
 [Inference](#Inference)
 
+
 ### Overview
 ---
 This report presents an analysis of the sales performance of a retail store, exploring the sales and customer data supplied by the client.
