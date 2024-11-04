@@ -1,5 +1,5 @@
-# LITA-Capstone-Project
-This project report offers a concise analysis of the sales and customer data for retail store XYZ, utilizing tools such as Microsoft Excel, SQL, and Power BI. It aims to provide insights to assist the management of store XYZ in making informed business growth decisions, while also highlighting my training journey with the Incubator Hub.
+# LITA-Capstone-Project-1
+This project report offers a concise analysis of the sales data for retail store XYZ, utilizing tools such as Microsoft Excel, SQL, and Power BI. It aims to provide insights to assist the management of store XYZ in making informed business growth decisions, while also highlighting my training journey with the Incubator Hub.
 
 ## Sales Performance Analysis for Retail Store XYZ
 ## Outline
@@ -38,9 +38,6 @@ This report presents an analysis of the sales performance of a retail store, exp
 **Exerpts of the Sales Data provided:**
 ![SalesData](https://github.com/user-attachments/assets/50d199f9-eb67-4839-97e7-57a22ba71e79)
 
-**Exerpts from the Customer Data provided:**
-![CustomerData](https://github.com/user-attachments/assets/a0b95f67-6e24-42fc-aea1-cc4ee65687fb)
-
 ### Key Metrics
 ---
 Below are some key metrics calculated using Microsoft Excel, along with the formulas used.
@@ -68,6 +65,8 @@ where =SUMIF(range, criteria, [sum_range])
 ![LITA Total Sales per Month](https://github.com/user-attachments/assets/85f0fb39-6f4d-411e-8c57-13f571dcd2df)
 
 ![LITA Total Sales per Year](https://github.com/user-attachments/assets/01057f9e-3ba9-49eb-9801-7cb0101b65d6)
+
+
 
 
 
