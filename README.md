@@ -73,7 +73,25 @@ where =SUMIF(range, criteria, [sum_range])
 
 
 #### SQL
----
+![0  SalesData](https://github.com/user-attachments/assets/5f903ec0-d589-4a0b-a8c1-a84ea4b51da5)
+
+![1  SalesData](https://github.com/user-attachments/assets/642dd94f-bd2e-4ae7-a8b2-122c1925dd0e)
+
+![2  SalesData](https://github.com/user-attachments/assets/cdb2f8b7-812b-42b7-94f9-91741534a9a9)
+
+![3  SalesData](https://github.com/user-attachments/assets/382df357-3fbb-441c-82fa-b6a6e143312f)
+
+![4  SalesData](https://github.com/user-attachments/assets/1bf94d44-9b3c-4eba-b893-cb6874c6fadd)
+
+![5  SalesData](https://github.com/user-attachments/assets/6d2806ec-5e7d-4f11-8b8f-10e3bd9f394e)
+
+![6  SalesData](https://github.com/user-attachments/assets/a4b89e03-547e-49c2-9410-8967748d4774)
+
+![7  SalesData](https://github.com/user-attachments/assets/cb06e31d-2ede-40dd-90f4-50b2b434e4a5)
+
+![8  SalesData](https://github.com/user-attachments/assets/0afea0c5-bc64-446a-a95e-fa546a9c61c5)
+
+
 
 ### Visualization
 ---
