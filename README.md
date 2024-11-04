@@ -64,13 +64,23 @@ where =SUMIF(range, criteria, [sum_range])
 
 #### Excel
 ---
-![LITA Total Sales by Product](https://github.com/user-attachments/assets/3c08dfc4-8439-4a9c-a08d-decea943a76c)
+![Total Sales by Product](https://github.com/user-attachments/assets/97c7b223-41ee-4be1-8a48-0a98fa30bbec)
 
 ![LITA Total Sales by Region](https://github.com/user-attachments/assets/ec58c69f-c094-4f3e-8e56-40617e43326a)
 
+![quantity sold by region](https://github.com/user-attachments/assets/da3a73c3-81e1-42f3-a45c-1fb7991c33f1)
+
 ![LITA Total Sales per Month](https://github.com/user-attachments/assets/85f0fb39-6f4d-411e-8c57-13f571dcd2df)
 
+![sales count by month](https://github.com/user-attachments/assets/6cefb0db-2a46-4dfb-983b-370f3db13612)
+
 ![LITA Total Sales per Year](https://github.com/user-attachments/assets/01057f9e-3ba9-49eb-9801-7cb0101b65d6)
+
+![%age Sales by Region](https://github.com/user-attachments/assets/b584c858-275d-4697-b8d5-a08d3d20072d)
+
+![Average Sales by Product](https://github.com/user-attachments/assets/9d8a93f5-b9ea-4a04-a7c1-859ea28f3465)
+
+![product by quantity sold](https://github.com/user-attachments/assets/f1a91dc2-dfc5-4069-8272-68b26e86c37e)
 
 
 #### SQL
