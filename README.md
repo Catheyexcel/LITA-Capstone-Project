@@ -111,6 +111,9 @@ where =SUMIF(range, criteria, [sum_range])
 
 ### Inference
 ---
+from the analysis carried out using the data provided, we can deduce that 
+1. 
+2.
 
 
 
