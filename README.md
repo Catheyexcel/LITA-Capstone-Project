@@ -144,10 +144,9 @@ Sales Data Visuals per Product for 2024
 
 ### Inference
 ---
-from the analysis carried out using the data provided, we can deduce that 
-1. 
-2.
+from the analysis carried out using the data provided, we can deduce that
 
+1. 
 
 
 
