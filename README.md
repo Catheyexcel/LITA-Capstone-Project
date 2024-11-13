@@ -108,6 +108,39 @@ where =SUMIF(range, criteria, [sum_range])
 ---
 #### Power Bi
 ---
+Here we have sales data visuals for years 2023 and 2024
+![SalesData 1](https://github.com/user-attachments/assets/3f4b7341-bc5d-4475-9ad1-f4ffd136a306)
+
+Sales Data Visuals for each product sold in 2023
+![SalesData 2023 (1)](https://github.com/user-attachments/assets/db07a12b-8666-49d8-b2b3-3007854886fa)
+
+![SalesData 2023 (2)](https://github.com/user-attachments/assets/e8b623f3-17e9-48e0-9e10-9b64e4b5c9bc)
+
+![SalesData 2023 (3)](https://github.com/user-attachments/assets/b60ed172-5a7e-414e-b358-929a34429106)
+
+![SalesData 2023 (4)](https://github.com/user-attachments/assets/9cd455b7-e6b5-4481-9ae0-b079f7382e68)
+
+![SalesData 2023 (5)](https://github.com/user-attachments/assets/19597a9e-26d2-48fa-8f99-f3942d095abb)
+
+![SalesData 2023 (6)](https://github.com/user-attachments/assets/1ff5b3e1-e7aa-497d-a9f1-ad0c952503f1)
+
+![SalesData 2023 (7)](https://github.com/user-attachments/assets/92bcea3d-a698-408c-9532-d6403036c0c1)
+
+Sales Data Visuals for 2024
+![SalesData 2024 (1)](https://github.com/user-attachments/assets/8bdb8797-7cfc-4edc-8e37-a92835681bbe)
+
+Sales Data Visuals per Product for 2024
+![SalesData 2024 (2)](https://github.com/user-attachments/assets/cd67a4b0-b197-4966-8c90-41f0c3c1878e)
+
+![SalesData 2024 (3)](https://github.com/user-attachments/assets/88a588ec-1b6f-45da-8df8-91f2215eb1c6)
+
+![SalesData 2024 (4)](https://github.com/user-attachments/assets/29be286f-73ae-41e2-9830-d039d97c07e5)
+
+![SalesData 2024 (5)](https://github.com/user-attachments/assets/11f7e1ea-8f44-44c3-96f1-8d09a2ba1c83)
+
+![SalesData 2024 (6)](https://github.com/user-attachments/assets/ae65b93a-f4c1-4446-9882-f26332d6b776)
+
+![SalesData 2024 (7)](https://github.com/user-attachments/assets/bd6ef7c6-b0ee-49d1-918b-a71b102f0b6b)
 
 ### Inference
 ---
