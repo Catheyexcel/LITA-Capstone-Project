@@ -111,21 +111,23 @@ where =SUMIF(range, criteria, [sum_range])
 Here we have sales data visuals for years 2023 and 2024
 ![SalesData 1](https://github.com/user-attachments/assets/3f4b7341-bc5d-4475-9ad1-f4ffd136a306)
 
+General Sales Data Visuals for products sold in 2023
+
+![SalesData 2023 (1)](https://github.com/user-attachments/assets/db07a12b-8666-49d8-b2b3-3007854886fa)
+
 Sales Data Visuals for each product sold in 2023
 
-1. ![SalesData 2023 (1)](https://github.com/user-attachments/assets/db07a12b-8666-49d8-b2b3-3007854886fa)
+1. ![SalesData 2023 (2)](https://github.com/user-attachments/assets/e8b623f3-17e9-48e0-9e10-9b64e4b5c9bc)
 
-2. ![SalesData 2023 (2)](https://github.com/user-attachments/assets/e8b623f3-17e9-48e0-9e10-9b64e4b5c9bc)
+2. ![SalesData 2023 (3)](https://github.com/user-attachments/assets/b60ed172-5a7e-414e-b358-929a34429106)
 
-3. ![SalesData 2023 (3)](https://github.com/user-attachments/assets/b60ed172-5a7e-414e-b358-929a34429106)
+3. ![SalesData 2023 (4)](https://github.com/user-attachments/assets/9cd455b7-e6b5-4481-9ae0-b079f7382e68)
 
-4. ![SalesData 2023 (4)](https://github.com/user-attachments/assets/9cd455b7-e6b5-4481-9ae0-b079f7382e68)
+4. ![SalesData 2023 (5)](https://github.com/user-attachments/assets/19597a9e-26d2-48fa-8f99-f3942d095abb)
 
-5. ![SalesData 2023 (5)](https://github.com/user-attachments/assets/19597a9e-26d2-48fa-8f99-f3942d095abb)
+5. ![SalesData 2023 (6)](https://github.com/user-attachments/assets/1ff5b3e1-e7aa-497d-a9f1-ad0c952503f1)
 
-6. ![SalesData 2023 (6)](https://github.com/user-attachments/assets/1ff5b3e1-e7aa-497d-a9f1-ad0c952503f1)
-
-7. ![SalesData 2023 (7)](https://github.com/user-attachments/assets/92bcea3d-a698-408c-9532-d6403036c0c1)
+6. ![SalesData 2023 (7)](https://github.com/user-attachments/assets/92bcea3d-a698-408c-9532-d6403036c0c1)
 
 General Sales Data Visuals for 2024
 
