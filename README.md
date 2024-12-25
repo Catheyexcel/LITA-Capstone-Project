@@ -111,6 +111,18 @@ where =SUMIF(range, criteria, [sum_range])
 Here we have sales data visuals for years 2023 and 2024
 ![SalesData 1](https://github.com/user-attachments/assets/3f4b7341-bc5d-4475-9ad1-f4ffd136a306)
 
+![General, Gloves](https://github.com/user-attachments/assets/124b0a34-0138-4e76-90b3-8a14fe4869f8)
+
+![General, Hat](https://github.com/user-attachments/assets/e3d84a23-d898-4f8c-909f-22c067f39d3a)
+
+![General, Jacket](https://github.com/user-attachments/assets/fe04cba1-e483-4f39-a9b8-0280019b5ff9)
+
+![General, Shirt](https://github.com/user-attachments/assets/17a44159-2e5f-499b-b91d-5df657176f3f)
+
+![General, Shoes](https://github.com/user-attachments/assets/426f80a6-397d-421a-9d11-79ef449f40ba)
+
+![General, Socks](https://github.com/user-attachments/assets/0434a372-4e9a-4fac-ac06-2694db803cd7)
+
 General Sales Data Visuals for products sold in 2023
 
 ![SalesData 2023 (1)](https://github.com/user-attachments/assets/db07a12b-8666-49d8-b2b3-3007854886fa)
