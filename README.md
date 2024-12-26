@@ -190,9 +190,10 @@ The following is deduced from the analysis carried out using the data provided:
   **Inventory Management:** The declining quantity sold might indicate a need for adjustments in inventory management to avoid stockouts or excess inventory.
   
 - **Further Analysis:**
-To gain deeper insights, it would be beneficial to analyze the data further by:
-Investigating the reasons behind the declining quantity sold.
-Comparing the performance of different product categories or segments.
+  
+ To gain deeper insights, it would be beneficial to analyze the data further by:
+ Investigating the reasons behind the declining quantity sold.
+ Comparing the performance of different product categories or segments.
  
  Analyzing customer demographics and preferences in different regions.
  
@@ -200,7 +201,4 @@ Comparing the performance of different product categories or segments.
  
  By conducting further analysis and taking appropriate actions based on the insights gained, the company can optimize its sales and marketing strategies to achieve even greater success in the future.
 
-- **Overall:**
-The company has a significant number of customers and generates substantial revenue.
-However, the high number of canceled subscriptions suggests that there may be issues with customer retention.
-Further analysis is needed to understand the reasons for cancellations and to improve customer retention strategies.
+
