@@ -164,7 +164,9 @@ Sales Data Visuals per Product sold in 2024
 ---
 The following is deduced from the analysis carried out using the data provided:
 - **Overall Performance:**
+  
 **Strong Sales Growth:** The total sales in 2024 are significantly higher than in 2023, indicating a substantial increase in revenue.
+
 **Increased Customer Base:** The number of customers has grown from 400 in 2023 to 500 in 2024, suggesting a successful expansion of the customer base.
   
 - **Product Performance:**
@@ -177,8 +179,11 @@ The following is deduced from the analysis carried out using the data provided:
 **Seasonal Fluctuations:** The "Regional Sales Based on Month and Quarter" charts reveal seasonal patterns in sales across different regions. For example, sales in the East region tend to be higher in Q1 and Q4.
   
 - **Additional Inferences:**
+  
 **Marketing Impact:** The increase in sales and customers could be attributed to effective marketing campaigns or strategies implemented in 2024.
+
 **Customer Loyalty:** The consistent performance of the West region suggests a loyal customer base in that area.
+
 **Inventory Management:** The declining quantity sold might indicate a need for adjustments in inventory management to avoid stockouts or excess inventory.
   
 - **Further Analysis:**
