@@ -164,9 +164,7 @@ Sales Data Visuals per Product sold in 2024
 ---
 The following is deduced from the analysis carried out using the data provided:
 - **Overall Performance:**
-
   **Strong Sales Growth:** The total sales in 2024 are significantly higher than in 2023, indicating a substantial increase in revenue.
-  
   **Increased Customer Base:** The number of customers has grown from 400 in 2023 to 500 in 2024, suggesting a successful expansion of the customer base.
   
 - **Product Performance:**
