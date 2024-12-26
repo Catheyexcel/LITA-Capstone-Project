@@ -127,27 +127,28 @@ General Sales Data Visuals for products sold in 2023
 
 ![SalesData 2023 (1)](https://github.com/user-attachments/assets/db07a12b-8666-49d8-b2b3-3007854886fa)
 
-Sales Data Visuals for each product sold in 2023
+Sales Data Visuals per Product sold in 2023
 
-1. ![SalesData 2023 (2)](https://github.com/user-attachments/assets/e8b623f3-17e9-48e0-9e10-9b64e4b5c9bc)
+1. ![2023 Gloves](https://github.com/user-attachments/assets/55d43893-f2fa-4edf-891f-69b5e9e0e065)
 
-2. ![SalesData 2023 (3)](https://github.com/user-attachments/assets/b60ed172-5a7e-414e-b358-929a34429106)
+2. ![2023 Hat](https://github.com/user-attachments/assets/5cc904bf-c394-46d5-a409-5757b9136721)
 
-3. ![SalesData 2023 (4)](https://github.com/user-attachments/assets/9cd455b7-e6b5-4481-9ae0-b079f7382e68)
+3. ![2023 Jacket](https://github.com/user-attachments/assets/d052f344-2f61-4272-9294-9e0291a610e3)
 
-4. ![SalesData 2023 (5)](https://github.com/user-attachments/assets/19597a9e-26d2-48fa-8f99-f3942d095abb)
+4. ![2023 Shirt](https://github.com/user-attachments/assets/aa09de8d-f92b-4365-a0b0-37dc8ca9b287)
 
-5. ![SalesData 2023 (6)](https://github.com/user-attachments/assets/1ff5b3e1-e7aa-497d-a9f1-ad0c952503f1)
+5. ![2023 Shoes](https://github.com/user-attachments/assets/ff56d65b-cded-4640-8eaa-c066aa7fed76)
 
-6. ![SalesData 2023 (7)](https://github.com/user-attachments/assets/92bcea3d-a698-408c-9532-d6403036c0c1)
+6. ![2023 Socks](https://github.com/user-attachments/assets/66ab9bcb-d0aa-4aa5-a722-e8b3b403e7fd)
 
-General Sales Data Visuals for 2024
+
+General Sales Data Visuals for products sold in 2024
 
 ![SalesData 2024 (1)](https://github.com/user-attachments/assets/8bdb8797-7cfc-4edc-8e37-a92835681bbe)
 
-Sales Data Visuals per Product for 2024
+Sales Data Visuals per Product sold in 2024
 
-1. ![SalesData 2024 (2)](https://github.com/user-attachments/assets/cd67a4b0-b197-4966-8c90-41f0c3c1878e)
+1. ![SalesData 2024 (2)](https://github.com/user-attachments/assets/72cc4679-02e8-42d6-8ba1-8c8b687fc51d)
 
 2. ![SalesData 2024 (3)](https://github.com/user-attachments/assets/88a588ec-1b6f-45da-8df8-91f2215eb1c6)
 
