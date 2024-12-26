@@ -164,7 +164,9 @@ Sales Data Visuals per Product sold in 2024
 ---
 The following is deduced from the analysis carried out using the data provided:
 - **Overall Performance:**
+
   **Strong Sales Growth:** The total sales in 2024 are significantly higher than in 2023, indicating a substantial increase in revenue.
+
   **Increased Customer Base:** The number of customers has grown from 400 in 2023 to 500 in 2024, suggesting a successful expansion of the customer base.
   
 - **Product Performance:**
@@ -190,15 +192,17 @@ The following is deduced from the analysis carried out using the data provided:
   **Inventory Management:** The declining quantity sold might indicate a need for adjustments in inventory management to avoid stockouts or excess inventory.
   
 - **Further Analysis:**
-  
- To gain deeper insights, it would be beneficial to analyze the data further by:
- Investigating the reasons behind the declining quantity sold.
- Comparing the performance of different product categories or segments.
+
+  To gain deeper insights, it would be beneficial to analyze the data further by:
+
+  Investigating the reasons behind the declining quantity sold.
+
+  Comparing the performance of different product categories or segments.
  
- Analyzing customer demographics and preferences in different regions.
+  Analyzing customer demographics and preferences in different regions.
  
- Tracking key performance indicators (KPIs) over time to monitor trends and identify areas for improvement.
+  Tracking key performance indicators (KPIs) over time to monitor trends and identify areas for improvement.
  
- By conducting further analysis and taking appropriate actions based on the insights gained, the company can optimize its sales and marketing strategies to achieve even greater success in the future.
+  By conducting further analysis and taking appropriate actions based on the insights gained, the company can optimize its sales and marketing strategies to achieve even greater success in the future.
 
 
