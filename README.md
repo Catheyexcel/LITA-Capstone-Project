@@ -164,12 +164,15 @@ Sales Data Visuals per Product sold in 2024
 ---
 The following is deduced from the analysis carried out using the data provided:
 - **Overall Performance:**
-  **Strong Sales Growth:** The total sales in 2024 are significantly higher than in 2023, indicating a substantial increase in revenue. &nbsp;
-  **Increased Customer Base:** The number of customers has grown from 400 in 2023 to 500 in 2024, suggesting a successful expansion of the customer base. &nbsp;
+  **Strong Sales Growth:** The total sales in 2024 are significantly higher than in 2023, indicating a substantial increase in revenue.
+  
+  **Increased Customer Base:** The number of customers has grown from 400 in 2023 to 500 in 2024, suggesting a successful expansion of the customer base.
   
 - **Product Performance:**
 **Top-Selling Product:** Shoes as represented by the deep purple bar in the "Total Sales by Product" chart is the best-selling product, contributing significantly to the overall sales revenue.
+  
 **Least-Selling Product:** As seen in the "Total Sales by Product" chart, the least sold product across regions in both years is socks. 
+
 **Declining Quantity Sold:** The "Quantity by Product" chart shows a downward trend in the quantity sold over time. This could be due to various factors like seasonal demand, competitor activity, or changes in product pricing or promotion strategies.
   
 - **Regional Performance:**
